@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+p {
+    color: purple;
+    font-size: 38px;
+}
+h1 {
+    color: purple;
+    font-size: 38px;
+}
+
+div {
+    width: 90%;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    font-size: 38px;
+    color: purple;
+
+}
+
+*{background-image:url('https://phonoteka.org/uploads/posts/2021-06/1624373626_33-phonoteka_org-p-nochnoe-nebo-oboi-krasivo-37.jpg') ;}
